@@ -1,0 +1,3 @@
+[submodule "42_library"]
+	path = 42_library
+	url = git@github.com:vincent-syma/42_library.git
