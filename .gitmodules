@@ -1,3 +1,6 @@
 [submodule "42_LIBRARY"]
 	path = 42_LIBRARY
 	url = git@github.com:vincent-syma/42_library.git
+[submodule "42_system_administration"]
+	path = 42_system_administration
+	url = git@github.com:vincent-syma/42_system_administration.git
