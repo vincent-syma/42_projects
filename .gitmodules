@@ -4,3 +4,6 @@
 [submodule "42_system_administration"]
 	path = 42_system_administration
 	url = git@github.com:vincent-syma/42_system_administration.git
+[submodule "42_M02_push_swap"]
+	path = 42_M02_push_swap
+	url = git@github.com:vincent-syma/42_M02_push_swap.git
