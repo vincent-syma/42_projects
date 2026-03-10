@@ -7,3 +7,6 @@
 [submodule "42_M02_push_swap"]
 	path = 42_M02_push_swap
 	url = git@github.com:vincent-syma/42_M02_push_swap.git
+[submodule "42_M02_python_learning"]
+	path = 42_M02_python_learning
+	url = git@github.com:vincent-syma/42_M02_python_learning.git
