@@ -1,4 +1,6 @@
-# 42 Projects (vincent_syma)
+# 42 Projects
+
+## About
 
 These projects are based on **42 school subjects**.
 
@@ -15,7 +17,7 @@ The versions I have in this public repo do not have to adhere to all 42 strict r
 ```bash
 42_projects
 ├── 42_LIBRARY
-│	├── M00_libft			# my own versions of library functions		
+│	├── M00_libft			# my own versions of library functions
 │	├── M01_ft_printf		# my recode of printf()
 │	├── M01_get_next_line	# reading lines from fd
 ├── M02_push_swap			# sorting program
@@ -44,3 +46,15 @@ The versions I have in this public repo do not have to adhere to all 42 strict r
 | M05 		| `Answer Protocol` | ... | C | *... h* | ⏳ Waiting |
 | M05 		| `Inception` | System administration | … | *... h* | ⏳ Waiting |
 | M05 		| `ft_transcendence` | Web application | … | *... h* | ⏳ Waiting |
+
+---
+
+## 👤 Author
+
+**Simona Sucha**
+*(also known as ssucha or vincent_syma)* <br>
+Python & C · Developer, Software Tester · 42 student
+
+🖥️ GitHub: https://github.com/vincent-syma/ <br>
+🔗 LinkedIn: https://www.linkedin.com/in/simona-such%C3%A1-5a1b1928b <br>
+✉️ Email: vincent.f.syma@email.cz <br>
