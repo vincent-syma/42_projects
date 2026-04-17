@@ -29,14 +29,14 @@ The versions I have in this public repo do not have to adhere to all 42 strict r
 
 | Milestone |      Project      |     About     | Language used | Time | Status |
 |-----------|-------------------|---------------|---------------|------|--------|
-| M00 		| 	[`libft`](https://github.com/vincent-syma/42_library/tree/main/src/libft) 			| Library functions | C 		| *50 h* | ✅ Completed |
-| M01 		| [`ft_printf()`](https://github.com/vincent-syma/42_library/tree/main/src/ft_printf) 		| Library functions - printf() | C | *50 h* | ✅ Completed |
-| M01 		| [`get_next_line()`](https://github.com/vincent-syma/42_library/tree/main/src/get_next_line) 	| Function - read line from fd | C | *40 h* | ✅ Completed |
-| M01 		| [`Born2BeRoot`](https://github.com/vincent-syma/42_system_administration/tree/6d4bbfff5916d3579f53b4e992d1cb4edffd4f6c/M01_Born2BeRoot) 		| System administration | bash 	| *20 h* | ✅ Completed |
-| M02 		| [`push_swap`](https://github.com/vincent-syma/42_M02_push_swap) 		| Sorting program | C 			| *50 h* | ✅ Completed |
-| M02 		| [`Python Piscine`](https://github.com/vincent-syma/42_M02_python_learning)	| Learning Python | Python		| 80 h | ✅ 11/11 modules completed |
-| M02 		| `A-Maze-Ing`	| Maze generator with graphics | Python		| *50 h* | ⏳ IN PROGRESS |
-| M03 		| `Codexion` | ... | C | *80 h* | ⏳ Waiting |
+| M00 		| [`libft`](https://github.com/vincent-syma/42_library/tree/main/src/libft) | Library functions | C | *50 h* | ✅ Completed |
+| M01 		| [`ft_printf()`](https://github.com/vincent-syma/42_library/tree/main/src/ft_printf) | Library functions - printf() | C | *50 h* | ✅ Completed |
+| M01 		| [`get_next_line()`](https://github.com/vincent-syma/42_library/tree/main/src/get_next_line) | Function - read line from fd | C | *40 h* | ✅ Completed |
+| M01 		| [`Born2BeRoot`](https://github.com/vincent-syma/42_system_administration/tree/6d4bbfff5916d3579f53b4e992d1cb4edffd4f6c/M01_Born2BeRoot) | System administration | bash 	| *20 h* | ✅ Completed |
+| M02 		| [`push_swap`](https://github.com/vincent-syma/42_M02_push_swap) | Sorting program | C | *50 h* | ✅ Completed |
+| M02 		| [`Python Piscine`](https://github.com/vincent-syma/42_M02_python_learning) | Learning Python | Python | 80 h | ✅ 11/11 modules completed |
+| M02 		| `A-Maze-Ing`	| Maze generator with graphics | Python	| 50 h | ✅ Completed |
+| M03 		| `Codexion` | ... | C | *80 h* | ⏳ IN PROGRESS |
 | M03 		| `Fly-in` | ... | Python | *120 h* | ⏳ Waiting |
 | M03 		| `Call Me Maybe` | AI | Python | *80 h* | ⏳ Waiting |
 | M04 		| `Pac-Man` | Game design | Python | *... h* | ⏳ Waiting |
