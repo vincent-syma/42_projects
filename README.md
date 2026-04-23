@@ -10,17 +10,21 @@ The old projects focus on **low-level programming in C**, the newer ones introdu
 
 In these projects it is cool that they do not have 1 correct solution, so everybody who does them, has their unique way of approaching, solving and presenting them.
 
-The versions I have in this public repo do not have to adhere to all 42 strict rules and norms. They were validated once but I may work on them after that not sticking to the school norms anymore.
+> [!NOTE]
+> My takes were checked with `norminette` or `flake8` linter and validated once, but the versions in this public repo do not have to adhere to all 42 strict rules and norms or current versions of the projects anymore.
+
 
 ## Current status
 
 ```bash
 42_projects
-├── 42_LIBRARY
-│	├── M00_libft			# my own versions of library functions
+├── 42_C_LIBRARY
+│	├── M00_libft			# my own versions of C library functions
 │	├── M01_ft_printf		# my recode of printf()
 │	├── M01_get_next_line	# reading lines from fd
 ├── M02_push_swap			# sorting program
+├── M02_Python_learning		# learning Python and OOP concepts
+├── M02_A-Maze-Ing			# maze generation and visualization
 ├── system_administration
 │	└── M01_born2beroot		# basic system administration
 ```
