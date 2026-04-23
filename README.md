@@ -53,7 +53,7 @@ The versions I have in this public repo do not have to adhere to all 42 strict r
 
 **Simona Sucha**
 *(also known as ssucha or vincent_syma)* <br>
-Python & C · Developer, Software Tester · 42 student
+Python & C · Software Developer · 42 student
 
 🖥️ GitHub: https://github.com/vincent-syma/ <br>
 🔗 LinkedIn: https://www.linkedin.com/in/simona-such%C3%A1-5a1b1928b <br>
