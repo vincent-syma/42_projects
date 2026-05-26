@@ -10,3 +10,6 @@
 [submodule "42_M02_python_learning"]
 	path = 42_M02_python_learning
 	url = git@github.com:vincent-syma/42_M02_python_learning.git
+[submodule "42_M03_codexion"]
+	path = 42_M03_codexion
+	url = git@github.com:vincent-syma/42_M03_codexion.git
