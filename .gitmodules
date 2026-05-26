@@ -13,3 +13,6 @@
 [submodule "42_M03_codexion"]
 	path = 42_M03_codexion
 	url = git@github.com:vincent-syma/42_M03_codexion.git
+[submodule "42_M02_A-Maze-Ing"]
+	path = 42_M02_A-Maze-Ing
+	url = git@github.com:vincent-syma/42_M02_A-Maze-Ing.git
