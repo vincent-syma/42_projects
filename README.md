@@ -25,6 +25,7 @@ In these projects it is cool that they do not have 1 correct solution, so everyb
 ├── M02_push_swap			# sorting program
 ├── M02_Python_learning		# learning Python and OOP concepts
 ├── M02_A-Maze-Ing			# maze generation and visualization
+├── M03_codexion			# multithread sharing resources simulation
 ├── system_administration
 │	└── M01_born2beroot		# basic system administration
 ```
@@ -40,9 +41,9 @@ In these projects it is cool that they do not have 1 correct solution, so everyb
 | M02 		| [`push_swap`](https://github.com/vincent-syma/42_M02_push_swap) | Sorting program | C | *50 h* | ✅ Completed |
 | M02 		| [`Python Piscine`](https://github.com/vincent-syma/42_M02_python_learning) | Learning Python | Python | 80 h | ✅ 11/11 modules completed |
 | M02 		| `A-Maze-Ing`	| Maze generator algorithm + graphic visualization | Python	| 50 h | ✅ Completed |
-| M03 		| `Fly-in` | Multiple drone navigation algorithm + visualization | Python | *120 h* | ⏳ IN PROGRESS |
-| M03 		| `Codexion` | ... | C | *80 h* | ⏳ Waiting |
+| M03 		| [`Codexion`](https://github.com/vincent-syma/42_M03_codexion) | Multithread sharing resources simulation | C | 50 h | ✅ Completed |
 | M03 		| `Call Me Maybe` | AI | Python | *80 h* | ⏳ Waiting |
+| M03 		| `Fly-in` | Multiple drone navigation algorithm + visualization | Python | *120 h* | ⏳ IN PROGRESS |
 | M04 		| `Pac-Man` | Game design | Python | *... h* | ⏳ Waiting |
 | M04 		| `NetPractice` | System administration | ... | *... h* | ⏳ Waiting |
 | M04 		| `RAG against the machine` | AI | Python | *... h* | ⏳ Waiting |
