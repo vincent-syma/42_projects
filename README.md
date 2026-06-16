@@ -13,6 +13,8 @@ In these projects it is cool that they do not have 1 correct solution, so everyb
 > [!NOTE]
 > My takes were checked with `norminette` or `flake8` linter and validated once, but the versions in this public repo do not have to adhere to all 42 strict rules and norms or current versions of the projects anymore.
 
+![A-Maze-Ing cat maze](a-maze-ing_02.jpg)
+
 
 ## Current status
 
@@ -42,7 +44,7 @@ In these projects it is cool that they do not have 1 correct solution, so everyb
 | M02 		| [`Python Piscine`](https://github.com/vincent-syma/42_M02_python_learning) | Learning Python | Python | 80 h | ✅ 11/11 modules completed |
 | M02 		| [`A-Maze-Ing`](https://github.com/vincent-syma/42_M02_A-Maze-Ing) | Maze generator algorithm + graphic visualization | Python	| 50 h | ✅ Completed |
 | M03 		| [`Codexion`](https://github.com/vincent-syma/42_M03_codexion) | Multithread sharing resources simulation | C | 50 h | ✅ Completed |
-| M03 		| `Call Me Maybe` | AI | Python | *80 h* | ⏳ Waiting |
+| M03 		| `Call Me Maybe` | LLM function calling, constrained decoding | Python | *80 h* | ⏳ IN PROGRESS |
 | M03 		| `Fly-in` | Multiple drone navigation algorithm + visualization | Python | *120 h* | ⏳ IN PROGRESS |
 | M04 		| `Pac-Man` | Game design | Python | *... h* | ⏳ Waiting |
 | M04 		| `NetPractice` | System administration | ... | *... h* | ⏳ Waiting |
