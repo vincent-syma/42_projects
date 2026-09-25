@@ -11,7 +11,7 @@ The old projects focus on **low-level programming in C**, the newer ones introdu
 In these projects it is cool that they do not have 1 correct solution, so everybody who does them, has their unique way of approaching, solving and presenting them.
 
 > [!NOTE]
-> My takes were checked with `norminette` or `flake8` linter and validated once, but the versions in this public repo do not have to adhere to all 42 strict rules and norms or current versions of the projects anymore.
+> My takes were checked with `norminette` or `flake8`+`mypy` linters and validated once, but the versions in this public repo do not have to adhere to all 42 strict rules and norms or current versions of the projects anymore.
 
 ![A-Maze-Ing cat maze](a-maze-ing_02.jpg)
 
@@ -26,10 +26,13 @@ In these projects it is cool that they do not have 1 correct solution, so everyb
 │	├── M01_get_next_line	# reading lines from fd
 ├── M02_push_swap			# sorting program
 ├── M02_Python_learning		# learning Python and OOP concepts
-├── M02_A-Maze-Ing			# maze generation and visualization
+├── M02_A-Maze-Ing			# maze generation with visualization
 ├── M03_codexion			# multithread sharing resources simulation
+├── M03_Call_Me_Maybe		# AI function calling tool
+├── M03_Fly-In				# multidrone navigation system with visualization
 ├── system_administration
 │	└── M01_born2beroot		# basic system administration
+│	└── M04_NetPractice		# TCP/IP networking
 ```
 
 ## Table of projects
@@ -39,7 +42,7 @@ In these projects it is cool that they do not have 1 correct solution, so everyb
 | M00 		| [`libft`](https://github.com/vincent-syma/42_library/tree/main/src/libft) | Library functions | C | *50 h* | ✅ Completed |
 | M01 		| [`ft_printf()`](https://github.com/vincent-syma/42_library/tree/main/src/ft_printf) | Library functions - printf() | C | *50 h* | ✅ Completed |
 | M01 		| [`get_next_line()`](https://github.com/vincent-syma/42_library/tree/main/src/get_next_line) | Function - read line from fd | C | *40 h* | ✅ Completed |
-| M01 		| [`Born2BeRoot`](https://github.com/vincent-syma/42_system_administration/tree/6d4bbfff5916d3579f53b4e992d1cb4edffd4f6c/M01_Born2BeRoot) | System administration | bash 	| *20 h* | ✅ Completed |
+| M01 		| [`Born2BeRoot`](https://github.com/vincent-syma/42_system_administration/tree/6d4bbfff5916d3579f53b4e992d1cb4edffd4f6c/M01_Born2BeRoot) | System administration | bash 	| 15 h | ✅ Completed |
 | M02 		| [`push_swap`](https://github.com/vincent-syma/42_M02_push_swap) | Sorting program | C | *50 h* | ✅ Completed |
 | M02 		| [`Python Piscine`](https://github.com/vincent-syma/42_M02_python_learning) | Learning Python | Python | 80 h | ✅ 11/11 modules completed |
 | M02 		| [`A-Maze-Ing`](https://github.com/vincent-syma/42_M02_A-Maze-Ing) | Maze generator algorithm + graphic visualization | Python	| 50 h | ✅ Completed |
@@ -49,7 +52,7 @@ In these projects it is cool that they do not have 1 correct solution, so everyb
 | M04 		| `NetPractice` | TCP/IP networking | ... | 8 h | ✅ Completed |
 | M04 		| `Pac-Man` | Game design | Python | *... h* | ⏳ Waiting |
 | M04 		| `RAG against the machine` | AI | Python | *... h* | ⏳ Waiting |
-| M05 		| `Agent Smith` | AI | … | *... h* | ⏳ Waiting |
+| M05 		| `Agent Smith`/`tree_nity` | ... | … | *... h* | ⏳ Waiting |
 | M05 		| `Answer Protocol` | ... | C | *... h* | ⏳ Waiting |
 | M05 		| `Inception` | System administration | … | *... h* | ⏳ Waiting |
 | M05 		| `ft_transcendence` | Web application | … | *... h* | ⏳ Waiting |
@@ -60,7 +63,7 @@ In these projects it is cool that they do not have 1 correct solution, so everyb
 
 **Simona Sucha**
 *(also known as ssucha or vincent_syma)* <br>
-Python & C · Software Developer · 42 student
+Python & C · Software Developer · 42 student & tutor
 
 🖥️ GitHub: https://github.com/vincent-syma/ <br>
 🔗 LinkedIn: https://www.linkedin.com/in/simona-such%C3%A1-5a1b1928b <br>
