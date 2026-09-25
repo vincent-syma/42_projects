@@ -16,3 +16,6 @@
 [submodule "42_M02_A-Maze-Ing"]
 	path = 42_M02_A-Maze-Ing
 	url = git@github.com:vincent-syma/42_M02_A-Maze-Ing.git
+[submodule "42_M03_Call_Me_Maybe"]
+	path = 42_M03_Call_Me_Maybe
+	url = https://github.com/vincent-syma/42_M03_Call_Me_Maybe.git

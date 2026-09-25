@@ -44,10 +44,10 @@ In these projects it is cool that they do not have 1 correct solution, so everyb
 | M02 		| [`Python Piscine`](https://github.com/vincent-syma/42_M02_python_learning) | Learning Python | Python | 80 h | ✅ 11/11 modules completed |
 | M02 		| [`A-Maze-Ing`](https://github.com/vincent-syma/42_M02_A-Maze-Ing) | Maze generator algorithm + graphic visualization | Python	| 50 h | ✅ Completed |
 | M03 		| [`Codexion`](https://github.com/vincent-syma/42_M03_codexion) | Multithread sharing resources simulation | C | 50 h | ✅ Completed |
-| M03 		| `Call Me Maybe` | LLM function calling, constrained decoding | Python | *80 h* | ⏳ IN PROGRESS |
-| M03 		| `Fly-in` | Multiple drone navigation algorithm + visualization | Python | *120 h* | ⏳ IN PROGRESS |
+| M03 		| [`Call Me Maybe`](https://github.com/vincent-syma/42_M03_Call_Me_Maybe) | AI function calling tool | Python | 40 h | ✅ Completed |
+| M03 		| `Fly-in` | Drone navigation algorithm + visualization | Python | 60 h | ✅ Completed |
+| M04 		| `NetPractice` | TCP/IP networking | ... | 8 h | ✅ Completed |
 | M04 		| `Pac-Man` | Game design | Python | *... h* | ⏳ Waiting |
-| M04 		| `NetPractice` | System administration | ... | *... h* | ⏳ Waiting |
 | M04 		| `RAG against the machine` | AI | Python | *... h* | ⏳ Waiting |
 | M05 		| `Agent Smith` | AI | … | *... h* | ⏳ Waiting |
 | M05 		| `Answer Protocol` | ... | C | *... h* | ⏳ Waiting |
