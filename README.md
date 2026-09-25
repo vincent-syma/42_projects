@@ -63,7 +63,7 @@ In these projects it is cool that they do not have 1 correct solution, so everyb
 
 **Simona Sucha**
 *(also known as ssucha or vincent_syma)* <br>
-Python & C · Software Developer · 42 student & tutor
+Python & C · Software Developer · 42 Student & Tutor
 
 🖥️ GitHub: https://github.com/vincent-syma/ <br>
 🔗 LinkedIn: https://www.linkedin.com/in/simona-such%C3%A1-5a1b1928b <br>
